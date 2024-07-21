@@ -1,5 +1,0 @@
-{"pid": 2948, "timestamp": "1714922028.965221", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xeafc4fc900:\"combase.dll\"", "Arg3=0xeafc4fc930"], "returnvalue": "0x0"}
-{"pid": 2948, "timestamp": "1714922105.558445", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xeafc6fd6f0:\"api-ms-win-core-synch-l1-2-0.dll\"", "Arg3=0xeafc6fd710"], "returnvalue": "0x0"}
-{"pid": 2948, "timestamp": "1714922111.490484", "method": "LdrLoadDll", "arguments": ["Arg0=0x2009", "Arg1=0x0", "Arg2=0xeafc6fddb0:\"C:\\\\Windows\\\\System32\\\\InstallServiceTasks.dll\"", "Arg3=0xeafc6fddf8"], "returnvalue": "0x0"}
-{"pid": 2948, "timestamp": "1714922147.290250", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xeafc6ff950:\"oleaut32.dll\"", "Arg3=0xeafc6ff970"], "returnvalue": "0x0"}
-{"pid": 2948, "timestamp": "1714922256.344549", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xeafc47f480:\"ntdll.dll\"", "Arg3=0xeafc47f4b0"], "returnvalue": "0x0"}

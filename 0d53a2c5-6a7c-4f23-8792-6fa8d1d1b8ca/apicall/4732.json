@@ -1,8 +1,0 @@
-{"pid": 4732, "timestamp": "1714921977.106682", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x98e1afebf0:\"gdi32.dll\"", "Arg3=0x98e1afec10"], "returnvalue": "0x0"}
-{"pid": 4732, "timestamp": "1714921977.107534", "method": "LdrLoadDll", "arguments": ["Arg0=0x1", "Arg1=0x0", "Arg2=0x98e1afec20:\"gdi32.dll\"", "Arg3=0x98e1afec68"], "returnvalue": "0x0"}
-{"pid": 4732, "timestamp": "1714921977.112026", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x98e1afebf0:\"gdi32.dll\"", "Arg3=0x98e1afec10"], "returnvalue": "0x0"}
-{"pid": 4732, "timestamp": "1714921977.112434", "method": "LdrLoadDll", "arguments": ["Arg0=0x1", "Arg1=0x0", "Arg2=0x98e1afec20:\"gdi32.dll\"", "Arg3=0x98e1afec68"], "returnvalue": "0x0"}
-{"pid": 4732, "timestamp": "1714922081.235380", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x98e1bff250:\"gdi32.dll\"", "Arg3=0x98e1bff270"], "returnvalue": "0x0"}
-{"pid": 4732, "timestamp": "1714922081.237339", "method": "LdrLoadDll", "arguments": ["Arg0=0x1", "Arg1=0x0", "Arg2=0x98e1bff280:\"gdi32.dll\"", "Arg3=0x98e1bff2c8"], "returnvalue": "0x0"}
-{"pid": 4732, "timestamp": "1714922081.238712", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x98e1bff250:\"gdi32.dll\"", "Arg3=0x98e1bff270"], "returnvalue": "0x0"}
-{"pid": 4732, "timestamp": "1714922081.239338", "method": "LdrLoadDll", "arguments": ["Arg0=0x1", "Arg1=0x0", "Arg2=0x98e1bff280:\"gdi32.dll\"", "Arg3=0x98e1bff2c8"], "returnvalue": "0x0"}

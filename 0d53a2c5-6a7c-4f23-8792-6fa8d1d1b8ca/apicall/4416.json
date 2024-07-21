@@ -1,8 +1,0 @@
-{"pid": 4416, "timestamp": "1714921965.970911", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x4607cfe7d0:\"ntdll.dll\"", "Arg3=0x4607cfe7f0"], "returnvalue": "0x0"}
-{"pid": 4416, "timestamp": "1714921966.633176", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x4607cfe830:\"ntdll.dll\"", "Arg3=0x4607cfe850"], "returnvalue": "0x0"}
-{"pid": 4416, "timestamp": "1714921967.656216", "method": "LdrLoadDll", "arguments": ["Arg0=0x4001", "Arg1=0x0", "Arg2=0x7ffa24ead1e0:\"KERNEL32.DLL\"", "Arg3=0x4607cff2a8"], "returnvalue": "0x0"}
-{"pid": 4416, "timestamp": "1714921974.006621", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x4607cfee20:\"api-ms-win-core-synch-l1-2-0\"", "Arg3=0x4607cfee68"], "returnvalue": "0x0"}
-{"pid": 4416, "timestamp": "1714921974.679957", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x4607cfee20:\"api-ms-win-core-fibers-l1-1-1\"", "Arg3=0x4607cfee68"], "returnvalue": "0x0"}
-{"pid": 4416, "timestamp": "1714921974.708191", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x4607cfee70:\"api-ms-win-core-fibers-l1-1-1\"", "Arg3=0x4607cfeeb8"], "returnvalue": "0x0"}
-{"pid": 4416, "timestamp": "1714921974.710382", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x4607cfee70:\"api-ms-win-core-synch-l1-2-0\"", "Arg3=0x4607cfeeb8"], "returnvalue": "0x0"}
-{"pid": 4416, "timestamp": "1714921974.722930", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x4607cfe2a0:\"api-ms-win-core-localization-l1-2-1\"", "Arg3=0x4607cfe2e8"], "returnvalue": "0x0"}

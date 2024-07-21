@@ -1,4 +1,0 @@
-{"pid": 612, "timestamp": "1714922092.850295", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xe50f6ff6e0:\"oleaut32.dll\"", "Arg3=0xe50f6ff700"], "returnvalue": "0x0"}
-{"pid": 612, "timestamp": "1714922137.858500", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xe50f6ffb60:\"oleaut32.dll\"", "Arg3=0xe50f6ffb80"], "returnvalue": "0x0"}
-{"pid": 612, "timestamp": "1714922150.226138", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xe50f3ff8d0:\"oleaut32.dll\"", "Arg3=0xe50f3ff8f0"], "returnvalue": "0x0"}
-{"pid": 612, "timestamp": "1714922252.503613", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xe50f6ff6b0:\"oleaut32.dll\"", "Arg3=0xe50f6ff6d0"], "returnvalue": "0x0"}

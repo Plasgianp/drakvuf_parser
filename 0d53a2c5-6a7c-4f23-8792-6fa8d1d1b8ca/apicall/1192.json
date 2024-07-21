@@ -1,9 +1,0 @@
-{"pid": 1192, "timestamp": "1714921808.234777", "method": "LdrLoadDll", "arguments": ["Arg0=0x1", "Arg1=0x0", "Arg2=0x2011fe4a0:\"api-ms-win-core-file-l1-2-1.dll\"", "Arg3=0x2011fe4e8"], "returnvalue": "0x0"}
-{"pid": 1192, "timestamp": "1714921826.618654", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x200d7cee0:\"xaudio2_7.dll\"", "Arg3=0x200d7cf00"], "returnvalue": "0xc0000135"}
-{"pid": 1192, "timestamp": "1714921826.625078", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x200d7cee0:\"xaudio2_6.dll\"", "Arg3=0x200d7cf00"], "returnvalue": "0xc0000135"}
-{"pid": 1192, "timestamp": "1714921826.627016", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x200d7cee0:\"xaudio2_5.dll\"", "Arg3=0x200d7cf00"], "returnvalue": "0xc0000135"}
-{"pid": 1192, "timestamp": "1714921826.629370", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x200d7cee0:\"xaudio2_4.dll\"", "Arg3=0x200d7cf00"], "returnvalue": "0xc0000135"}
-{"pid": 1192, "timestamp": "1714921894.180219", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x200d7cc40:\"xaudio2_7.dll\"", "Arg3=0x200d7cc60"], "returnvalue": "0xc0000135"}
-{"pid": 1192, "timestamp": "1714921894.180553", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x200d7cc40:\"xaudio2_6.dll\"", "Arg3=0x200d7cc60"], "returnvalue": "0xc0000135"}
-{"pid": 1192, "timestamp": "1714921894.180822", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x200d7cc40:\"xaudio2_5.dll\"", "Arg3=0x200d7cc60"], "returnvalue": "0xc0000135"}
-{"pid": 1192, "timestamp": "1714921894.181151", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x200d7cc40:\"xaudio2_4.dll\"", "Arg3=0x200d7cc60"], "returnvalue": "0xc0000135"}

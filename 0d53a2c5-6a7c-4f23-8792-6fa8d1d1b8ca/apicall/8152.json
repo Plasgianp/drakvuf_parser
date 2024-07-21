@@ -1,3 +1,0 @@
-{"pid": 8152, "timestamp": "1714922256.723765", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x6e233eb40:\"ntdll.dll\"", "Arg3=0x6e233eb60"], "returnvalue": "0x0"}
-{"pid": 8152, "timestamp": "1714922258.490785", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x6e233eba0:\"ntdll.dll\"", "Arg3=0x6e233ebc0"], "returnvalue": "0x0"}
-{"pid": 8152, "timestamp": "1714922258.500461", "method": "LdrLoadDll", "arguments": ["Arg0=0x4001", "Arg1=0x0", "Arg2=0x7ffa24ead1e0:\"KERNEL32.DLL\"", "Arg3=0x6e233f618"], "returnvalue": "0x0"}
