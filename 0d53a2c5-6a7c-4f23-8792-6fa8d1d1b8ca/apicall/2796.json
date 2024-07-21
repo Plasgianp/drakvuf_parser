@@ -1,0 +1,6 @@
+{"pid": 2796, "timestamp": "1714921752.450755", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x254387ee70:\"ntdll.dll\"", "Arg3=0x254387ee90"], "returnvalue": "0x0"}
+{"pid": 2796, "timestamp": "1714921752.697856", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x254387ee90:\"ntdll.dll\"", "Arg3=0x254387eeb0"], "returnvalue": "0x0"}
+{"pid": 2796, "timestamp": "1714921752.709099", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x254387ef30:\"ntdll.dll\"", "Arg3=0x254387ef50"], "returnvalue": "0x0"}
+{"pid": 2796, "timestamp": "1714921752.711512", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x254387eee0:\"ntdll.dll\"", "Arg3=0x254387ef00"], "returnvalue": "0x0"}
+{"pid": 2796, "timestamp": "1714921974.380978", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x2543a7f710:\"oleaut32.dll\"", "Arg3=0x2543a7f730"], "returnvalue": "0x0"}
+{"pid": 2796, "timestamp": "1714922054.841695", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x25433ff0c0:\"ntdll.dll\"", "Arg3=0x25433ff0e0"], "returnvalue": "0x0"}

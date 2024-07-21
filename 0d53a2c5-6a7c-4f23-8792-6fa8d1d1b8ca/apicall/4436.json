@@ -1,0 +1,8 @@
+{"pid": 4436, "timestamp": "1714921996.564349", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x28448fec10:\"ntdll.dll\"", "Arg3=0x28448fec30"], "returnvalue": "0x0"}
+{"pid": 4436, "timestamp": "1714921996.741803", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x28444fb260:\"api-ms-win-core-winrt-error-l1-1-1.dll\"", "Arg3=0x28444fb290"], "returnvalue": "0x0"}
+{"pid": 4436, "timestamp": "1714921996.909217", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x28444fb710:\"api-ms-win-core-winrt-error-l1-1-1.dll\"", "Arg3=0x28444fb740"], "returnvalue": "0x0"}
+{"pid": 4436, "timestamp": "1714922010.324047", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x284467f750:\"oleaut32.dll\"", "Arg3=0x284467f770"], "returnvalue": "0x0"}
+{"pid": 4436, "timestamp": "1714922015.006394", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x28445ff7f0:\"oleaut32.dll\"", "Arg3=0x28445ff810"], "returnvalue": "0x0"}
+{"pid": 4436, "timestamp": "1714922118.340416", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x28445ff9e0:\"oleaut32.dll\"", "Arg3=0x28445ffa00"], "returnvalue": "0x0"}
+{"pid": 4436, "timestamp": "1714922118.348737", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x28448ff420:\"oleaut32.dll\"", "Arg3=0x28448ff440"], "returnvalue": "0x0"}
+{"pid": 4436, "timestamp": "1714922141.635803", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x284467f6a0:\"oleaut32.dll\"", "Arg3=0x284467f6c0"], "returnvalue": "0x0"}

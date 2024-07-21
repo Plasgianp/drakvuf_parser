@@ -1,0 +1,8 @@
+{"pid": 2724, "timestamp": "1714922137.988500", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x646017f530:\"iuilp.dll\"", "Arg3=0x646017f578"], "returnvalue": "0x0"}
+{"pid": 2724, "timestamp": "1714922151.963628", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x646017f530:\"iuilp.dll\"", "Arg3=0x646017f578"], "returnvalue": "0x0"}
+{"pid": 2724, "timestamp": "1714922156.933541", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x645fb9f2f0:\"oleaut32.dll\"", "Arg3=0x645fb9f310"], "returnvalue": "0x0"}
+{"pid": 2724, "timestamp": "1714922158.994129", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x646017f530:\"iuilp.dll\"", "Arg3=0x646017f578"], "returnvalue": "0x0"}
+{"pid": 2724, "timestamp": "1714922174.147534", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x646017f530:\"iuilp.dll\"", "Arg3=0x646017f578"], "returnvalue": "0x0"}
+{"pid": 2724, "timestamp": "1714922188.716313", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x646017f530:\"iuilp.dll\"", "Arg3=0x646017f578"], "returnvalue": "0x0"}
+{"pid": 2724, "timestamp": "1714922198.004708", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x646017f530:\"iuilp.dll\"", "Arg3=0x646017f578"], "returnvalue": "0x0"}
+{"pid": 2724, "timestamp": "1714922209.383711", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x646017f530:\"iuilp.dll\"", "Arg3=0x646017f578"], "returnvalue": "0x0"}

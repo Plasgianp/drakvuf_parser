@@ -1,0 +1,114 @@
+{"pid": 4744, "timestamp": "1714921873.163957", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcde450:\"ntdll.dll\"", "Arg3=0xaeefcde470"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921873.172094", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcde4b0:\"ntdll.dll\"", "Arg3=0xaeefcde4d0"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921873.178594", "method": "LdrLoadDll", "arguments": ["Arg0=0x4001", "Arg1=0x0", "Arg2=0x7ffa24ead1e0:\"KERNEL32.DLL\"", "Arg3=0xaeefcdef28"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921876.893624", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xaeefcde2a0:\"ntdll.dll\"", "Arg3=0xaeefcde2e8"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921876.898797", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcde4d0:\"api-ms-win-eventing-provider-l1-1-0.dll\"", "Arg3=0xaeefcde500"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921876.914993", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcde540:\"ntdll.dll\"", "Arg3=0xaeefcde560"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921891.516480", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xaeefcde9e0:\"api-ms-win-core-synch-l1-2-0\"", "Arg3=0xaeefcdea28"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921891.518376", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xaeefcde9e0:\"api-ms-win-core-fibers-l1-1-1\"", "Arg3=0xaeefcdea28"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921891.521545", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xaeefcdea30:\"api-ms-win-core-fibers-l1-1-1\"", "Arg3=0xaeefcdea78"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921891.522993", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xaeefcdea30:\"api-ms-win-core-synch-l1-2-0\"", "Arg3=0xaeefcdea78"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921891.531251", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xaeefcdde60:\"api-ms-win-core-localization-l1-2-1\"", "Arg3=0xaeefcddea8"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921891.536387", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xaeefcde990:\"kernel32\"", "Arg3=0xaeefcde9d8"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921891.540118", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xaeefcde990:\"api-ms-win-core-string-l1-1-0\"", "Arg3=0xaeefcde9d8"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921892.763435", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xaeefcde990:\"api-ms-win-core-datetime-l1-1-1\"", "Arg3=0xaeefcde9d8"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921892.784532", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xaeefcde990:\"api-ms-win-core-localization-obsolete-l1-2-0\"", "Arg3=0xaeefcde9d8"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921893.465976", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcdeb40:\"gdi32full.dll\"", "Arg3=0xaeefcdeb60"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921894.798046", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcde1c0:\"C:\\\\Windows\\\\system32\\\\IMM32.DLL\"", "Arg3=0xaeefcde1e0"], "returnvalue": "0xc0000135"}
+{"pid": 4744, "timestamp": "1714921896.059813", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcdd660:\"C:\\\\Windows\\\\system32\\\\IMM32.DLL\"", "Arg3=0xaeefcdd680"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921906.697984", "method": "LdrLoadDll", "arguments": ["Arg0=0x9", "Arg1=0x0", "Arg2=0xaeefcde1b0:\"C:\\\\Windows\\\\system32\\\\IMM32.DLL\"", "Arg3=0xaeefcde1f8"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921906.698647", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcde440:\"C:\\\\Windows\\\\system32\\\\IMM32.DLL\"", "Arg3=0xaeefcde460"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921909.076039", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcde090:\"gdi32.dll\"", "Arg3=0xaeefcde0b0"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921911.176542", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcde250:\"ntdll.dll\"", "Arg3=0xaeefcde270"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921913.100447", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcdeaf0:\"api-ms-win-core-synch-l1-2-0.dll\"", "Arg3=0xaeefcdeb10"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921913.117862", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcde9a0:\"ntdll.dll\"", "Arg3=0xaeefcde9c0"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921914.973569", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcdeaf0:\"rpcrt4.dll\"", "Arg3=0xaeefcdeb10"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921915.732716", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcdeaf0:\"api-ms-win-core-synch-l1-2-0.dll\"", "Arg3=0xaeefcdeb10"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921915.831628", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcdeb60:\"ext-ms-win-ole32-oleautomation-l1-1-0.dll\"", "Arg3=0xaeefcdeb80"], "returnvalue": "0xc0000135"}
+{"pid": 4744, "timestamp": "1714921916.975474", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdf260"], "returnvalue": "0x15fb61"}
+{"pid": 4744, "timestamp": "1714921916.976259", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdf160"], "returnvalue": "0x15fb61"}
+{"pid": 4744, "timestamp": "1714921919.002010", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcdebe0:\"C:\\\\Windows\\\\system32\\\\rpcss.dll\"", "Arg3=0xaeefcdec10"], "returnvalue": "0xc0000135"}
+{"pid": 4744, "timestamp": "1714921922.393755", "method": "DeviceIoControl", "arguments": ["Arg0=0x1a4", "Arg1=0x390008", "Arg2=0x0", "Arg3=0x0", "Arg4=0xaeefcddbd8", "Arg5=0xae00000030", "Arg6=0xaeefcddbb8", "Arg7=0x0", "Arg8=0x0", "Arg9=0x7ffa224883a4"], "returnvalue": "0x1"}
+{"pid": 4744, "timestamp": "1714921922.401837", "method": "LdrLoadDll", "arguments": ["Arg0=0x1", "Arg1=0x0", "Arg2=0xaeefcde370:\"rpcrt4.dll\"", "Arg3=0xaeefcde3b8"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921927.316060", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcddce0:\"ntdll.dll\"", "Arg3=0xaeefcddd00"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921928.796783", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcde680:\"ntdll.dll\"", "Arg3=0xaeefcde6b8"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921928.797280", "method": "LdrGetProcedureAddress", "arguments": ["Arg0=0x7ffa24d90000", "Arg1=0xaeefcde670", "Arg2=0x0", "Arg3=0xaeefcde6c8"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921928.797950", "method": "LdrGetProcedureAddress", "arguments": ["Arg0=0x7ffa24d90000", "Arg1=0xaeefcde670", "Arg2=0x0", "Arg3=0xaeefcde6c0"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921931.430319", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcde3f0:\"combase.dll\"", "Arg3=0xaeefcde410"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921931.473244", "method": "LookupPrivilegeValueW", "arguments": ["Arg0=0x0:\"\"", "Arg1=0x7ff683d08bd0:\"SeBackupPrivilege\"", "Arg2=0xaeefcdf030"], "returnvalue": "0x1"}
+{"pid": 4744, "timestamp": "1714921931.476368", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdefd0"], "returnvalue": "0x163405"}
+{"pid": 4744, "timestamp": "1714921931.478659", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdee20"], "returnvalue": "0x163415"}
+{"pid": 4744, "timestamp": "1714921938.976163", "method": "WriteConsoleW", "arguments": ["Arg0=0x54", "Arg1=0x2a9f3c4f1d0", "Arg2=0x8c", "Arg3=0xaeefcdeee0", "Arg4=0x0"], "returnvalue": "0x1"}
+{"pid": 4744, "timestamp": "1714921938.977026", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165151"}
+{"pid": 4744, "timestamp": "1714921938.977492", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165151"}
+{"pid": 4744, "timestamp": "1714921938.977976", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165151"}
+{"pid": 4744, "timestamp": "1714921938.978662", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdf0a0"], "returnvalue": "0x165151"}
+{"pid": 4744, "timestamp": "1714921938.979505", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165151"}
+{"pid": 4744, "timestamp": "1714921938.980158", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165151"}
+{"pid": 4744, "timestamp": "1714921938.980873", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165151"}
+{"pid": 4744, "timestamp": "1714921938.981494", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165151"}
+{"pid": 4744, "timestamp": "1714921938.982754", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.983541", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.984291", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.986866", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.987624", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.988253", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.988803", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.989440", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.990007", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.990640", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.991216", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.991852", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.992394", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.993022", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165161"}
+{"pid": 4744, "timestamp": "1714921938.993508", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921938.994227", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921938.994903", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921938.995430", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921938.996657", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921938.997717", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921938.998527", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921938.999308", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921939.000284", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921939.000882", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921939.001663", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921939.002326", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921939.003091", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921939.003873", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921939.004644", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x165170"}
+{"pid": 4744, "timestamp": "1714921939.875933", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.877373", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.877824", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.878449", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdef30"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.878898", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.879346", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.879806", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdf170"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.880251", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdefe0"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.880685", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdec40"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.881123", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdea60"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.881555", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.882007", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdea60"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.882470", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.882906", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdea60"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.883362", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.883900", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdea60"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.884549", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.885004", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdea60"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.885441", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x1654db"}
+{"pid": 4744, "timestamp": "1714921939.886076", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcde0e0:\"combase.dll\"", "Arg3=0xaeefcde100"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921942.543016", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcdcca0:\"C:\\\\Windows\\\\system32\\\\rpcss.dll\"", "Arg3=0xaeefcdccd0"], "returnvalue": "0xc0000135"}
+{"pid": 4744, "timestamp": "1714921943.563325", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcdce10:\"combase.dll\"", "Arg3=0xaeefcdce40"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921943.585865", "method": "CreateThread", "arguments": ["Arg0=0x0", "Arg1=0x2000", "Arg2=0x7ffa248f2ce0", "Arg3=0x2a9f3c34f50", "Arg4=0x2a900000000", "Arg5=0xaeefcdce90", "Arg6=0x1574f454d", "Arg7=0x134"], "returnvalue": "0x1fc"}
+{"pid": 4744, "timestamp": "1714921967.266067", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcdc770:\"combase.dll\"", "Arg3=0xaeefcdc790"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714921971.225537", "method": "LdrLoadDll", "arguments": ["Arg0=0x2009", "Arg1=0x0", "Arg2=0xaeefcdc0d0:\"C:\\\\Windows\\\\system32\\\\vss_ps.dll\"", "Arg3=0xaeefcdc118"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714922018.087028", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x178656"}
+{"pid": 4744, "timestamp": "1714922018.088293", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x178656"}
+{"pid": 4744, "timestamp": "1714922018.088878", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x178656"}
+{"pid": 4744, "timestamp": "1714922018.089721", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdf170"], "returnvalue": "0x178656"}
+{"pid": 4744, "timestamp": "1714922018.092150", "method": "GetTickCount", "arguments": ["Arg0=0xaeefcdefc0"], "returnvalue": "0x178656"}
+{"pid": 4744, "timestamp": "1714922028.233692", "method": "WriteConsoleW", "arguments": ["Arg0=0x54", "Arg1=0x2a9f3c59bb0", "Arg2=0x47", "Arg3=0xaeefcdf080", "Arg4=0x0"], "returnvalue": "0x1"}
+{"pid": 4744, "timestamp": "1714922028.234323", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x17ae03"}
+{"pid": 4744, "timestamp": "1714922028.235724", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x17ae03"}
+{"pid": 4744, "timestamp": "1714922042.369203", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcdf060:\"oleaut32.dll\"", "Arg3=0xaeefcdf080"], "returnvalue": "0x0"}
+{"pid": 4744, "timestamp": "1714922042.373058", "method": "GetTickCount", "arguments": ["Arg0=0x7ffa24b533d8"], "returnvalue": "0x17e530"}
+{"pid": 4744, "timestamp": "1714922042.377926", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xaeefcdf6b0:\"mscoree.dll\"", "Arg3=0xaeefcdf6e0"], "returnvalue": "0xc0000135"}

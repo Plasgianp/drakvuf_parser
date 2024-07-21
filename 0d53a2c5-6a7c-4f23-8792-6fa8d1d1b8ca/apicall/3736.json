@@ -1,0 +1,4 @@
+{"pid": 3736, "timestamp": "1714921866.475970", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x278232eff0:\"ntdll.dll\"", "Arg3=0x278232f010"], "returnvalue": "0x0"}
+{"pid": 3736, "timestamp": "1714921866.482218", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x278232ef00:\"ntdll.dll\"", "Arg3=0x278232ef20"], "returnvalue": "0x0"}
+{"pid": 3736, "timestamp": "1714921866.490127", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x278232ef10:\"ntdll.dll\"", "Arg3=0x278232ef30"], "returnvalue": "0x0"}
+{"pid": 3736, "timestamp": "1714921867.774254", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x278232eff0:\"ntdll.dll\"", "Arg3=0x278232f010"], "returnvalue": "0x0"}

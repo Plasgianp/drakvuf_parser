@@ -1,0 +1,314 @@
+{"pid": 384, "timestamp": "1714921862.921716", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e970:\"ntdll.dll\"", "Arg3=0x9dcf92e990"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921862.928413", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e9d0:\"ntdll.dll\"", "Arg3=0x9dcf92e9f0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921862.933523", "method": "LdrLoadDll", "arguments": ["Arg0=0x4001", "Arg1=0x0", "Arg2=0x7ffa24ead1e0:\"KERNEL32.DLL\"", "Arg3=0x9dcf92f448"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921864.428297", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92e7c0:\"ntdll.dll\"", "Arg3=0x9dcf92e808"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921864.432916", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e9f0:\"api-ms-win-eventing-provider-l1-1-0.dll\"", "Arg3=0x9dcf92ea20"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921865.061938", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92ea60:\"ntdll.dll\"", "Arg3=0x9dcf92ea80"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921874.010997", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92ef40:\"api-ms-win-core-synch-l1-2-0\"", "Arg3=0x9dcf92ef88"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921874.905015", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92ef40:\"api-ms-win-core-fibers-l1-1-1\"", "Arg3=0x9dcf92ef88"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921874.917502", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92ef90:\"api-ms-win-core-fibers-l1-1-1\"", "Arg3=0x9dcf92efd8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921874.920311", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92ef90:\"api-ms-win-core-synch-l1-2-0\"", "Arg3=0x9dcf92efd8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921874.978803", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92e3c0:\"api-ms-win-core-localization-l1-2-1\"", "Arg3=0x9dcf92e408"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921874.983818", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92efd0:\"api-ms-win-core-synch-l1-2-0.dll\"", "Arg3=0x9dcf92eff0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921876.267044", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92ee80:\"ntdll.dll\"", "Arg3=0x9dcf92eea0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921876.293118", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92efd0:\"rpcrt4.dll\"", "Arg3=0x9dcf92eff0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921878.413476", "method": "CreateToolhelp32Snapshot", "arguments": ["Arg0=0x2", "Arg1=0x0"], "returnvalue": "0x124"}
+{"pid": 384, "timestamp": "1714921879.698696", "method": "Process32FirstW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921879.702354", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921879.704432", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921879.707825", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921879.709894", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921879.712045", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921879.714200", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921879.716665", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921879.718723", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921879.721078", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921879.723135", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921879.725178", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921879.727250", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.939996", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.942281", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.944603", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.947321", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.949621", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.951657", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.953631", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.955681", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.957904", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.960664", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.962743", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.964522", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.966521", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.968304", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921881.970220", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921882.655828", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921882.659726", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921882.662160", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921882.664535", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921882.667234", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921882.670184", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921882.672583", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921882.675044", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921882.677442", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921882.681044", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921882.683637", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921882.687880", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921883.564806", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921883.571391", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921883.573711", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921883.577887", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921883.581357", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921883.583438", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921883.585457", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921883.587900", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921883.590197", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921883.592898", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921884.865343", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921884.867854", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921884.870194", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921884.873161", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921884.875632", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921884.877997", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921884.883173", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921884.886131", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921884.890634", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921884.892884", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921884.895360", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921884.897323", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921886.276484", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921886.283839", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921886.286047", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921886.288458", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921886.291118", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921886.293731", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921886.296184", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921886.298562", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921886.300915", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921886.303580", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921886.306491", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921886.308721", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921886.311197", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.355623", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.358456", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.360710", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.363642", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.365863", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.368303", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.370982", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.373052", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.375242", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.377487", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.380021", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.382057", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.384129", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.386194", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921887.388266", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921888.068601", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921888.071713", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921888.074129", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921888.076494", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921888.079114", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921888.082000", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921888.084440", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921888.086646", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921888.088926", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921888.091628", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921888.094446", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921888.096834", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.032056", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.035446", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.037814", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.040041", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.042039", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.044436", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.047021", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.048983", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.051316", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.054202", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.056491", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.059348", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.061753", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.063921", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.752275", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.754511", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.756322", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.758571", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.761509", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.763608", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.766115", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.768376", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.770698", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921889.781184", "method": "CreateToolhelp32Snapshot", "arguments": ["Arg0=0x2", "Arg1=0x0"], "returnvalue": "0x124"}
+{"pid": 384, "timestamp": "1714921889.783820", "method": "Process32FirstW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.478585", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.480377", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.481853", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.483453", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.485856", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.488912", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.491204", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.493654", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.495860", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.510028", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.512532", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.514569", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.516658", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.518717", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921890.520978", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.137454", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.142385", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.144556", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.147056", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.148865", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.150811", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.152517", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.155069", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.156977", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.159340", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.161010", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.162705", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.164634", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.166746", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.168826", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.171007", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.173251", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921892.175585", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.203511", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.206308", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.208280", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.210094", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.212555", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.214415", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.216362", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.218391", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.220671", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.225580", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.227771", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.229804", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.231855", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921893.233823", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.143920", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.146508", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.148615", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.150813", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.152886", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.154925", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.156832", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.162353", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.164622", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.166696", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.168541", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.170400", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.172358", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921894.174396", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.095935", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.098334", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.100222", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.102598", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.105000", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.107492", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.109486", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.111095", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.116250", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.118238", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.120261", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.122206", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.124020", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.126257", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.128571", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.130757", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.132608", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.134517", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921895.136320", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921896.785097", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921896.794292", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921896.818123", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921896.845329", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921896.851754", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921898.509955", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921898.529358", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921899.662730", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921899.665041", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921899.667132", "method": "Process32NextW", "arguments": ["Arg0=0x124", "Arg1=0x9dcf92f340"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921902.036123", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f630:\"C:\\\\Windows\\\\system32\\\\rpcss.dll\"", "Arg3=0x9dcf92f660"], "returnvalue": "0xc0000135"}
+{"pid": 384, "timestamp": "1714921905.713789", "method": "DeviceIoControl", "arguments": ["Arg0=0x138", "Arg1=0x390008", "Arg2=0x0", "Arg3=0x0", "Arg4=0x9dcf92e628", "Arg5=0x9d00000030", "Arg6=0x9dcf92e608", "Arg7=0x0", "Arg8=0x0", "Arg9=0x7ffa224883a4"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921907.607707", "method": "LdrLoadDll", "arguments": ["Arg0=0x1", "Arg1=0x0", "Arg2=0x9dcf92ed20:\"rpcrt4.dll\"", "Arg3=0x9dcf92ed68"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921912.061497", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e690:\"ntdll.dll\"", "Arg3=0x9dcf92e6b0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921912.362621", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f030:\"ntdll.dll\"", "Arg3=0x9dcf92f068"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921912.363215", "method": "LdrGetProcedureAddress", "arguments": ["Arg0=0x7ffa24d90000", "Arg1=0x9dcf92f020", "Arg2=0x0", "Arg3=0x9dcf92f078"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921912.363743", "method": "LdrGetProcedureAddress", "arguments": ["Arg0=0x7ffa24d90000", "Arg1=0x9dcf92f020", "Arg2=0x0", "Arg3=0x9dcf92f070"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921914.503381", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f2a0:\"combase.dll\"", "Arg3=0x9dcf92f2c0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921921.883268", "method": "LdrLoadDll", "arguments": ["Arg0=0x9", "Arg1=0x0", "Arg2=0x9dcf92d0f0:\"API-MS-Win-Core-LocalRegistry-L1-1-0.dll\"", "Arg3=0x9dcf92d138"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921924.131580", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92d220:\"ntdll.dll\"", "Arg3=0x9dcf92d240"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921924.135439", "method": "LdrLoadDll", "arguments": ["Arg0=0x2009", "Arg1=0x0", "Arg2=0x9dcf92dac0:\"C:\\\\Windows\\\\system32\\\\wbem\\\\wbemprox.dll\"", "Arg3=0x9dcf92db08"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921926.349704", "method": "GetComputerNameW", "arguments": ["Arg0=0x1bc0e8d57f0", "Arg1=0x9dcf92fa28"], "returnvalue": "0x1"}
+{"pid": 384, "timestamp": "1714921926.387525", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92f540:\"sspicli.dll\"", "Arg3=0x9dcf92f588"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921927.177537", "method": "LdrLoadDll", "arguments": ["Arg0=0x1", "Arg1=0x0", "Arg2=0x9dcf92f200:\"kernel32.dll\"", "Arg3=0x9dcf92f248"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921928.483193", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92e690:\"kernel32\"", "Arg3=0x9dcf92e6d8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921928.483740", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92e690:\"api-ms-win-core-string-l1-1-0\"", "Arg3=0x9dcf92e6d8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921928.484279", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92e690:\"api-ms-win-core-datetime-l1-1-1\"", "Arg3=0x9dcf92e6d8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921928.484561", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92e690:\"api-ms-win-core-localization-obsolete-l1-2-0\"", "Arg3=0x9dcf92e6d8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921928.487456", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e7b0:\"api-ms-win-core-synch-l1-2-0.dll\"", "Arg3=0x9dcf92e7d0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921928.495373", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e820:\"ext-ms-win-ole32-oleautomation-l1-1-0.dll\"", "Arg3=0x9dcf92e840"], "returnvalue": "0xc0000135"}
+{"pid": 384, "timestamp": "1714921936.937411", "method": "LdrLoadDll", "arguments": ["Arg0=0x2009", "Arg1=0x0", "Arg2=0x9dcf92d910:\"C:\\\\Windows\\\\System32\\\\msxml6.dll\"", "Arg3=0x9dcf92d958"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921936.944237", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92d9c0:\"combase.dll\"", "Arg3=0x9dcf92d9e0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921939.573737", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e4a0:\"ntdll.dll\"", "Arg3=0x9dcf92e4c0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921940.465605", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e4e0:\"ntdll.dll\"", "Arg3=0x9dcf92e500"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921940.470679", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e3f0:\"ntdll.dll\"", "Arg3=0x9dcf92e410"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921940.499156", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92eb10:\"ntdll.dll\"", "Arg3=0x9dcf92eb30"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921944.082615", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92ea20:\"gdi32full.dll\"", "Arg3=0x9dcf92ea40"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921945.317840", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e0a0:\"C:\\\\Windows\\\\system32\\\\IMM32.DLL\"", "Arg3=0x9dcf92e0c0"], "returnvalue": "0xc0000135"}
+{"pid": 384, "timestamp": "1714921945.344375", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92d540:\"C:\\\\Windows\\\\system32\\\\IMM32.DLL\"", "Arg3=0x9dcf92d560"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921945.344683", "method": "LdrLoadDll", "arguments": ["Arg0=0x9", "Arg1=0x0", "Arg2=0x9dcf92e090:\"C:\\\\Windows\\\\system32\\\\IMM32.DLL\"", "Arg3=0x9dcf92e0d8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921945.345426", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e320:\"C:\\\\Windows\\\\system32\\\\IMM32.DLL\"", "Arg3=0x9dcf92e340"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921955.835308", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92df70:\"gdi32.dll\"", "Arg3=0x9dcf92df90"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921955.862144", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e130:\"ntdll.dll\"", "Arg3=0x9dcf92e150"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921957.671707", "method": "LdrLoadDll", "arguments": ["Arg0=0x1", "Arg1=0x0", "Arg2=0x9dcf92f050:\"user32.dll\"", "Arg3=0x9dcf92f098"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921964.172011", "method": "LdrLoadDll", "arguments": ["Arg0=0x1", "Arg1=0x0", "Arg2=0x9dcf92ed70:\"API-MS-WIN-CORE-URL-L1-1-0.DLL\"", "Arg3=0x9dcf92edb8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921965.653651", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e650:\"api-ms-win-core-synch-l1-2-0.dll\"", "Arg3=0x9dcf92e670"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921966.394028", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92e3d0:\"C:\\\\Windows\\\\system32\\\\oleaut32.dll\"", "Arg3=0x9dcf92e3f0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921967.230052", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f010:\"msiso.dll\"", "Arg3=0x9dcf92f030"], "returnvalue": "0xc0000135"}
+{"pid": 384, "timestamp": "1714921968.187942", "method": "LdrLoadDll", "arguments": ["Arg0=0x9", "Arg1=0x0", "Arg2=0x9dcf92e800:\"C:\\\\Windows\\\\system32\\\\uxtheme.dll\"", "Arg3=0x9dcf92e848"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921969.967107", "method": "SetWindowLongPtrW", "arguments": ["Arg0=0x402ac", "Arg1=0xfffffffe", "Arg2=0xfffffffffffffffe"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921969.969639", "method": "CreateWindowExW", "arguments": ["Arg0=0x0", "Arg1=0x7ffa17359fe0:\"URL Moniker Notification Window\"", "Arg2=0x0:\"\"", "Arg3=0x0", "Arg4=0x300000000", "Arg5=0x9d00000000", "Arg6=0x1bc00000000", "Arg7=0x7ffa00000000", "Arg8=0xfffffffffffffffd", "Arg9=0x0", "Arg10=0x7ffa17210000", "Arg11=0x0"], "returnvalue": "0x402ac"}
+{"pid": 384, "timestamp": "1714921971.013760", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92d730:\"ntdll.dll\"", "Arg3=0x9dcf92d750"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921971.774692", "method": "SetWindowLongPtrW", "arguments": ["Arg0=0x402ac", "Arg1=0xfffffffe", "Arg2=0x0"], "returnvalue": "0xfffffffffffffffe"}
+{"pid": 384, "timestamp": "1714921971.834453", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f770:\"ntdll.dll\"", "Arg3=0x9dcf92f790"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921972.636763", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f520:\"wmisvc.dll\"", "Arg3=0x9dcf92f550"], "returnvalue": "0xc0000135"}
+{"pid": 384, "timestamp": "1714921973.417710", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92d760:\"C:\\\\Windows\\\\system32\\\\rpcss.dll\"", "Arg3=0x9dcf92d790"], "returnvalue": "0xc0000135"}
+{"pid": 384, "timestamp": "1714921975.032414", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92d8d0:\"combase.dll\"", "Arg3=0x9dcf92d900"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921975.351272", "method": "CreateThread", "arguments": ["Arg0=0x0", "Arg1=0x2000", "Arg2=0x7ffa248f2ce0", "Arg3=0x1bc0e66fe60", "Arg4=0x1bc00000000", "Arg5=0x9dcf92d950", "Arg6=0x1574f454d", "Arg7=0x134"], "returnvalue": "0x1c4"}
+{"pid": 384, "timestamp": "1714921983.547937", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92d230:\"combase.dll\"", "Arg3=0x9dcf92d250"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921987.408249", "method": "LdrLoadDll", "arguments": ["Arg0=0x2009", "Arg1=0x0", "Arg2=0x9dcf92cb90:\"C:\\\\Windows\\\\system32\\\\wbem\\\\wbemsvc.dll\"", "Arg3=0x9dcf92cbd8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921989.082679", "method": "LdrLoadDll", "arguments": ["Arg0=0x9", "Arg1=0x0", "Arg2=0x9dcf92f1a0:\"api-ms-win-core-localization-l1-2-0.dll\"", "Arg3=0x9dcf92f1e8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921989.083200", "method": "LdrLoadDll", "arguments": ["Arg0=0x9", "Arg1=0x0", "Arg2=0x9dcf92f1a0:\"api-ms-win-core-localization-obsolete-l1-1-0.dll\"", "Arg3=0x9dcf92f1e8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921990.298343", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92c920:\"ntdll.dll\"", "Arg3=0x9dcf92c940"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921990.301752", "method": "LdrLoadDll", "arguments": ["Arg0=0x2009", "Arg1=0x0", "Arg2=0x9dcf92d180:\"C:\\\\Windows\\\\system32\\\\wbem\\\\fastprox.dll\"", "Arg3=0x9dcf92d1c8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921990.303516", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92d910:\"ntdll.dll\"", "Arg3=0x9dcf92d930"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714921993.248890", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92db00:\"amsi.dll\"", "Arg3=0x9dcf92db48"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922005.546799", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92d010:\"ntdll.dll\"", "Arg3=0x9dcf92d030"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922006.512650", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92d010:\"ntdll.dll\"", "Arg3=0x9dcf92d030"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922006.512905", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92d010:\"ntdll.dll\"", "Arg3=0x9dcf92d030"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922006.533301", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92caa0:\"api-ms-win-core-synch-l1-2-0\"", "Arg3=0x9dcf92cae8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922006.533556", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92caa0:\"api-ms-win-core-fibers-l1-1-1\"", "Arg3=0x9dcf92cae8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922006.533761", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92caa0:\"api-ms-win-core-synch-l1-2-0\"", "Arg3=0x9dcf92cae8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922006.533975", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92caa0:\"api-ms-win-core-fibers-l1-1-1\"", "Arg3=0x9dcf92cae8"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922006.538589", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x9dcf92bee0:\"api-ms-win-core-localization-l1-2-1\"", "Arg3=0x9dcf92bf28"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922006.539468", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92cb60:\"api-ms-win-core-synch-l1-2-0.dll\"", "Arg3=0x9dcf92cb80"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922007.899466", "method": "LdrLoadDll", "arguments": ["Arg0=0x9", "Arg1=0x0", "Arg2=0x9dcf92c9e0:\"C:\\\\Windows\\\\system32\\\\version.dll\"", "Arg3=0x9dcf92ca28"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922007.899888", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92ca30:\"version.dll\"", "Arg3=0x9dcf92ca50"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922007.900428", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92ca30:\"version.dll\"", "Arg3=0x9dcf92ca50"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922007.900921", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92ca30:\"version.dll\"", "Arg3=0x9dcf92ca50"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922007.901826", "method": "LdrLoadDll", "arguments": ["Arg0=0x1", "Arg1=0x0", "Arg2=0x9dcf92d230:\"C:\\\\Program Files\\\\Windows Defender\\\\MpOav.dll\"", "Arg3=0x9dcf92d278"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922013.301462", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f3f0:\"wmisvc.dll\"", "Arg3=0x9dcf92f420"], "returnvalue": "0xc0000135"}
+{"pid": 384, "timestamp": "1714922049.900746", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f220:\"ntdll.dll\"", "Arg3=0x9dcf92f240"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922051.851115", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f1b0:\"ntdll.dll\"", "Arg3=0x9dcf92f1d0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922053.590859", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f1b0:\"ntdll.dll\"", "Arg3=0x9dcf92f1d0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922053.606722", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f200:\"ntdll.dll\"", "Arg3=0x9dcf92f220"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922055.339365", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f940:\"oleaut32.dll\"", "Arg3=0x9dcf92f960"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922056.970837", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92fbd0:\"ntdll.dll\"", "Arg3=0x9dcf92fbf0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922056.974798", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92fbd0:\"mscoree.dll\"", "Arg3=0x9dcf92fc00"], "returnvalue": "0xc0000135"}
+{"pid": 384, "timestamp": "1714922056.980888", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f800:\"ntdll.dll\"", "Arg3=0x9dcf92f820"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922056.982825", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f810:\"ntdll.dll\"", "Arg3=0x9dcf92f830"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922056.984536", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f7c0:\"ntdll.dll\"", "Arg3=0x9dcf92f7e0"], "returnvalue": "0x0"}
+{"pid": 384, "timestamp": "1714922056.988445", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x9dcf92f860:\"ntdll.dll\"", "Arg3=0x9dcf92f880"], "returnvalue": "0x0"}

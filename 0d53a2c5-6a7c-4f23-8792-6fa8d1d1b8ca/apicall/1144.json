@@ -1,0 +1,16 @@
+{"pid": 1144, "timestamp": "1714921863.975976", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x7688a7eb30:\"api-ms-win-core-synch-l1-2-0.dll\"", "Arg3=0x7688a7eb50"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714921863.976947", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x7688a7e9a0:\"ntdll.dll\"", "Arg3=0x7688a7e9c0"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714921864.005053", "method": "LdrLoadDll", "arguments": ["Arg0=0x2009", "Arg1=0x0", "Arg2=0x7688d7a9a0:\"C:\\\\Windows\\\\system32\\\\vss_ps.dll\"", "Arg3=0x7688d7a9e8"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714921864.005995", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x7688d7b650:\"combase.dll\"", "Arg3=0x7688d7b680"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714921864.010478", "method": "LdrLoadDll", "arguments": ["Arg0=0x9", "Arg1=0x0", "Arg2=0x7688a7f1f0:\"c:\\\\windows\\\\system32\\\\ngcsvc.dll\"", "Arg3=0x7688a7f238"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714922025.978811", "method": "LdrLoadDll", "arguments": ["Arg0=0x2009", "Arg1=0x0", "Arg2=0x7688d7b6b0:\"C:\\\\Windows\\\\System32\\\\wuapi.dll\"", "Arg3=0x7688d7b6f8"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714922025.997648", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x7688d7b9f0:\"wups.dll\"", "Arg3=0x7688d7ba38"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714922030.677558", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0x7688d7cef0:\"api-ms-win-core-synch-l1-1-0.dll\"", "Arg3=0x7688d7cf38"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714922030.722262", "method": "LdrLoadDll", "arguments": ["Arg0=0x1", "Arg1=0x0", "Arg2=0x7688d7d5d0:\"UNISTORE.DLL\"", "Arg3=0x7688d7d618"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714922031.047631", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x7688d7d150:\"ntdll.dll\"", "Arg3=0x7688d7d170"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714922031.082483", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x7688d7d240:\"ntdll.dll\"", "Arg3=0x7688d7d260"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714922062.303676", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x76897fef20:\"ntdll.dll\"", "Arg3=0x76897fef40"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714922062.314781", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x76897fee80:\"ntdll.dll\"", "Arg3=0x76897feea0"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714922083.081860", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x7688a7ec10:\"api-ms-win-core-synch-l1-2-0.dll\"", "Arg3=0x7688a7ec30"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714922083.083098", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0x7688a7ea80:\"ntdll.dll\"", "Arg3=0x7688a7eaa0"], "returnvalue": "0x0"}
+{"pid": 1144, "timestamp": "1714922084.268256", "method": "LdrLoadDll", "arguments": ["Arg0=0x9", "Arg1=0x0", "Arg2=0x7688a7f2d0:\"c:\\\\windows\\\\system32\\\\ngcsvc.dll\"", "Arg3=0x7688a7f318"], "returnvalue": "0x0"}

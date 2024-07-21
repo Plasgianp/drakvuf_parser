@@ -1,0 +1,10 @@
+{"pid": 3420, "timestamp": "1714921887.508207", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xe17e5be4b0:\"ntdll.dll\"", "Arg3=0xe17e5be4d0"], "returnvalue": "0x0"}
+{"pid": 3420, "timestamp": "1714921887.522437", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xe17e5be510:\"ntdll.dll\"", "Arg3=0xe17e5be530"], "returnvalue": "0x0"}
+{"pid": 3420, "timestamp": "1714921888.177941", "method": "LdrLoadDll", "arguments": ["Arg0=0x4001", "Arg1=0x0", "Arg2=0x7ffa24ead1e0:\"KERNEL32.DLL\"", "Arg3=0xe17e5bef88"], "returnvalue": "0x0"}
+{"pid": 3420, "timestamp": "1714921892.595246", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xe17e5beb00:\"api-ms-win-core-synch-l1-2-0\"", "Arg3=0xe17e5beb48"], "returnvalue": "0x0"}
+{"pid": 3420, "timestamp": "1714921892.596018", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xe17e5beb00:\"api-ms-win-core-fibers-l1-1-1\"", "Arg3=0xe17e5beb48"], "returnvalue": "0x0"}
+{"pid": 3420, "timestamp": "1714921892.598720", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xe17e5beb50:\"api-ms-win-core-fibers-l1-1-1\"", "Arg3=0xe17e5beb98"], "returnvalue": "0x0"}
+{"pid": 3420, "timestamp": "1714921892.600356", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xe17e5beb50:\"api-ms-win-core-synch-l1-2-0\"", "Arg3=0xe17e5beb98"], "returnvalue": "0x0"}
+{"pid": 3420, "timestamp": "1714921892.602480", "method": "LdrLoadDll", "arguments": ["Arg0=0x801", "Arg1=0x0", "Arg2=0xe17e5bdf80:\"api-ms-win-core-localization-l1-2-1\"", "Arg3=0xe17e5bdfc8"], "returnvalue": "0x0"}
+{"pid": 3420, "timestamp": "1714921893.417335", "method": "LdrLoadDll", "arguments": ["Arg0=0x1", "Arg1=0x0", "Arg2=0xe17e5bf5c0:\"rpcrt4.dll\"", "Arg3=0xe17e5bf608"], "returnvalue": "0x0"}
+{"pid": 3420, "timestamp": "1714921895.242124", "method": "LdrGetDllHandle", "arguments": ["Arg0=0x0", "Arg1=0x0", "Arg2=0xe17e5bed30:\"ntdll.dll\"", "Arg3=0xe17e5bed50"], "returnvalue": "0x0"}
